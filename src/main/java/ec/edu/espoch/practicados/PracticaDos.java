@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class PracticaDos {
 
     public static void main(String[] args) {
+        // hola mundo
      
         Scanner entrada= new Scanner(System.in);
         int[]ventas=new int[7];
